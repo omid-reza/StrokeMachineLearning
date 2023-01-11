@@ -1,0 +1,31 @@
+[
+  "mean_FA_Rectus_R",
+  "mean_FA_Cingulum_Ant_L",
+  "mean_FA_Frontal_Mid_L",
+  "mean_FA_Frontal_Inf_Tri_L",
+  "mean_FA_Postcentral_L",
+  "mean_FA_Pallidum_L",
+
+  "mean_MD-Precentral_L",
+  "mean_MD_Frontal_Inf_Oper_L",
+  "mean_MD_Frontal_Med_Orb_R",
+  "mean_MD_Caudate_L",
+
+  "mean_AxD_Frontal_Sup_L",
+  "mean_AxD_Rolandic_Oper_R",
+  "mean_AxD_Insula_R",
+  "mean_AxD_Occipital_Inf_R",
+  "mean_AxD_Heschl_L",
+
+  "mean_RD_Frontal_Inf_Orb_R",
+  "mean_RD_Frontal_Mid_L",
+  "mean_RD_Frontal_Inf_Oper_R",
+  "mean_RD_SupraMarginal_R",
+
+  "Cuneus_R",
+  "Occipital_Sup_R",
+  "Precuneus_L",
+  "Temporal_Pole_Mid_L",
+  "Heschl_L",
+  "Paracentral_Lobule_L"
+]
