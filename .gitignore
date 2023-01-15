@@ -1,4 +1,5 @@
 *.csv
-*.pickle
+*.png
 .idea
+*.pickle
 catboost_info
